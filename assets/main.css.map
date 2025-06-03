@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"","sources":["../_sass/custom.scss"],"names":[],"mappings":"AAAA;EACE;EAEA","sourcesContent":["body {\n  background-color: #2d1e2f;\n\n  color: #fcecd1;\n}\n"],"file":"main.css"}
